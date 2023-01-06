@@ -1,6 +1,6 @@
 import java.util.*;
 import java.lang.*;
-public class dsexp9a
+public class Quicksort
 {
 	static void swap(int[] arr, int i, int j)
 	{
